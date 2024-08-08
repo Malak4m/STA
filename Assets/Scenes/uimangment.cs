@@ -13,4 +13,6 @@ public class uimangment : MonoBehaviour
     {
         Application.Quit();
     }
+
+    ///comment
 }
