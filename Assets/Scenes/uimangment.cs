@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class uimangment : MonoBehaviour
 {
-    int t;
+    float main;
     public void StartGame()
     {
         SceneManager.LoadScene("SampleScene");
