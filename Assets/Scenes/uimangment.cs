@@ -15,4 +15,6 @@ public class uimangment : MonoBehaviour
     }
 
     ///comment
+    ///2comment
+   
 }
