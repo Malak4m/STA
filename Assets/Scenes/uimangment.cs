@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class uimangment : MonoBehaviour
 {
+    int t;
     public void StartGame()
     {
         SceneManager.LoadScene("SampleScene");
@@ -14,7 +15,6 @@ public class uimangment : MonoBehaviour
         Application.Quit();
     }
 
-    ///comment
-    ///2commentttt
+   
    
 }
